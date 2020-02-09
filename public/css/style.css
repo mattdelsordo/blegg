@@ -1,0 +1,16 @@
+/* https://getbootstrap.com/docs/4.0/getting-started/theming/ */
+
+@media (min-width: 1300px) {
+    .container{
+        max-width: 1300px;
+        width: auto;
+    }
+}
+
+html, body {
+    height: 100%;
+}
+
+a {
+    color: inherit;
+}
